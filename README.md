@@ -1,66 +1,54 @@
-# 🎓 Análise e Desenvolvimento de Sistemas — FATEC Lins
+# 🎓 Análise e Desenvolvimento de Sistemas | FATEC Lins
 
-Bem-vindo ao meu repositório acadêmico de **Análise e Desenvolvimento de Sistemas (ADS)**!
+Bem-vindo ao meu repositório acadêmico!
 
-Este espaço foi criado para documentar minha trajetória na **Faculdade de Tecnologia de Lins (FATEC Lins)**, reunindo exercícios, atividades práticas, trabalhos e projetos desenvolvidos ao longo da graduação.
+Sou **Giovanni Alfieri Demarchi**, formado em Engenharia Elétrica e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Faculdade de Tecnologia de Lins (FATEC Lins – Prof. Antonio Seabra)**.
 
-O objetivo é acompanhar minha evolução como desenvolvedor, consolidar os conhecimentos adquiridos e construir um portfólio que demonstre minhas habilidades técnicas.
+Este repositório reúne exercícios, atividades, documentações e projetos desenvolvidos durante minha graduação, registrando minha evolução acadêmica e prática na área de Tecnologia da Informação.
 
----
+## 📚 Informações acadêmicas
 
-## 👨‍💻 Sobre mim
-
-Sou **Giovanni Demarchi**, formado em Engenharia Elétrica e estudante de Análise e Desenvolvimento de Sistemas na FATEC Lins.
-
-Tenho interesse em tecnologia, desenvolvimento de software, programação e resolução de problemas por meio de soluções computacionais.
-
-- 🎓 **Instituição:** FATEC Lins
-- 📚 **Curso:** Análise e Desenvolvimento de Sistemas
-- 📅 **Início:** 2026
-- 🎯 **Previsão de conclusão:** Julho de 2029
-- 💻 **Áreas de interesse:** Desenvolvimento de Software, Programação e Tecnologia
+- **Instituição:** FATEC Lins – Prof. Antonio Seabra
+- **Curso:** Análise e Desenvolvimento de Sistemas
+- **Início:** 2026
+- **Previsão de conclusão:** Julho de 2029
+- **Formação anterior:** Engenharia Elétrica
 
 ## 📂 Organização do repositório
 
-Os conteúdos estão organizados por semestres e disciplinas para facilitar a navegação e a consulta aos materiais.
+Os conteúdos estão organizados por semestre e disciplina, facilitando a consulta e o acompanhamento do aprendizado.
 
-| Semestre | Conteúdo |
+### 📘 1º semestre
+
+[**Acessar conteúdos do 1º semestre**](./ADS-1-.Semestre/)
+
+| Disciplina / Projeto | Descrição |
 |---|---|
-| 📘 [1º Semestre](./ADS-1-.Semestre/) | Fundamentos de programação, algoritmos e engenharia de software |
+| [Algoritmos e Lógica de Programação](./ADS-1-.Semestre/Algoritmos-L%C3%B3gica-Programa%C3%A7%C3%A3o/) | Fundamentos de programação e resolução de problemas |
+| [Engenharia de Software I](./ADS-1-.Semestre/Engenharia-Software-I/) | Requisitos, documentação e desenvolvimento de sistemas |
+| [Projeto Integrador ADS I](./ADS-1-.Semestre/Projeto-Integrador-ADS-I/) | Projeto acadêmico de um sistema web para gestão de academia |
 
-Novos semestres e disciplinas serão adicionados conforme o avanço da graduação.
+## 💻 Conhecimentos em desenvolvimento
 
-## 🛠️ Tecnologias e ferramentas de estudo
+- Lógica de programação e algoritmos
+- Programação em C e C++
+- Python
+- Engenharia de Software
+- Análise e documentação de requisitos
+- Modelagem e desenvolvimento de sistemas
+- Versionamento com Git e GitHub
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+## 🎯 Objetivo
 
-Também utilizo o **VisualG** para praticar pseudocódigo e lógica de programação.
+Consolidar os conhecimentos adquiridos durante a graduação, desenvolver habilidades técnicas e construir um portfólio que demonstre minha evolução na área de desenvolvimento de software.
 
-## 🎯 Objetivos
+Os conteúdos serão atualizados progressivamente, conforme a realização das atividades e projetos acadêmicos.
 
-- Desenvolver habilidades em lógica de programação e algoritmos.
-- Aprimorar os conhecimentos nas linguagens C, C++ e Python.
-- Aplicar os conceitos de engenharia de software em projetos.
-- Praticar versionamento de código com Git e GitHub.
-- Documentar a evolução acadêmica e profissional.
-- Construir um portfólio de projetos e soluções de software.
+## 👨‍💻 Contato
 
-## 📈 Evolução acadêmica
-
-Este repositório está em constante desenvolvimento e será atualizado com novos exercícios, projetos e materiais conforme o andamento do curso.
-
-## 📬 Contato
-
-**Giovanni Demarchi**
-
-- 💻 GitHub: [giovanni-demarchi](https://github.com/giovanni-demarchi)
-- 📧 E-mail: giovannidemarchi.dev@gmail.com
+- **GitHub:** [giovanni-demarchi](https://github.com/giovanni-demarchi)
+- **E-mail:** giovannidemarchi.dev@gmail.com
 
 ---
 
-⭐ *Aprender, praticar, desenvolver e evoluir continuamente.*
+📌 Repositório destinado ao aprendizado, à prática e à documentação da minha trajetória acadêmica em Análise e Desenvolvimento de Sistemas.
