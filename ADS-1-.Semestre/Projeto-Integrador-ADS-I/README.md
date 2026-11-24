@@ -1,75 +1,136 @@
-# Sistema Web para Gestão de Academia
+# 🏋️ Sistema Web para Gestão de Academia
 
-Projeto acadêmico desenvolvido no curso de **Análise e Desenvolvimento de Sistemas (ADS)** da **Fatec Lins – Prof. Antonio Seabra**, como parte das atividades do **Projeto Integrador ADS I** e disciplinas relacionadas.
+## 📌 Sobre o projeto
 
-## Equipe
+Projeto acadêmico desenvolvido no curso de **Análise e Desenvolvimento de Sistemas (ADS)** da **FATEC Lins – Prof. Antonio Seabra**, como parte das atividades do **Projeto Integrador ADS I**.
+
+O projeto propõe o desenvolvimento incremental de um **Sistema Web para Gestão de Academia**, destinado à centralização e à organização de processos administrativos, financeiros e operacionais.
+
+A solução busca facilitar o gerenciamento de informações que, em muitos estabelecimentos, são controladas por processos manuais, planilhas ou ferramentas isoladas.
+
+## 👥 Equipe de desenvolvimento
 
 - David Antonio Marques Dall Agnol
 - Erick Palmeiro Silva
 - Giovanni Alfieri Demarchi
 - Marcus Vinicius de Jesus Santos
 
-## Sobre o projeto
+## 🎯 Objetivo geral
 
-O projeto propõe o desenvolvimento incremental de um **Sistema Web para Gestão de Academia**, centralizando informações administrativas, financeiras e operacionais que podem estar distribuídas entre processos manuais, planilhas ou ferramentas isoladas.
+Planejar e desenvolver uma solução web que contribua para a administração de academias, permitindo o gerenciamento integrado de alunos, professores, planos, matrículas, pagamentos, treinos e demais processos operacionais.
 
-A pesquisa inicial analisou os sistemas **i-Fitness, Pacto e Next Fit** e identificou como núcleo do domínio a gestão de alunos, planos, matrículas, financeiro, treinos, controle de acesso e relatórios.
+## 🔎 Pesquisa e análise de mercado
 
-## Escopo inicial
+Durante a etapa inicial, foram estudados sistemas de gestão de academias disponíveis no mercado:
 
-- Autenticação e controle de acesso por perfil;
-- Cadastro e gerenciamento de alunos;
-- Cadastro de professores, modalidades e planos;
-- Realização e cancelamento de matrículas;
-- Gestão de mensalidades e pagamentos;
-- Controle de inadimplência e histórico financeiro;
-- Gestão de treinos e exportação em PDF;
-- Histórico e regras de acesso;
-- Relatórios administrativos e financeiros.
+- i-Fitness
+- Pacto
+- Next Fit
 
-## Evoluções previstas
+A análise dessas plataformas contribuiu para a identificação de funcionalidades relevantes e para a definição do escopo inicial da solução proposta.
 
-- Aplicativo do aluno;
-- Integração com Pix, boleto e cartão;
-- Integração com catracas;
-- Biometria e reconhecimento facial;
-- CRM e automações de comunicação;
-- Dashboards avançados e recursos de inteligência artificial;
-- Integrações com plataformas externas por API.
+## ⚙️ Funcionalidades previstas no escopo inicial
 
-## Documentação
+### 🔐 Autenticação e controle de acesso
+- Autenticação de usuários
+- Gerenciamento de permissões
+- Controle de acesso por perfil
 
-Este repositório reúne os artefatos produzidos no semestre, incluindo:
+### 👤 Gestão de alunos
+- Cadastro e atualização de alunos
+- Consulta de informações cadastrais
+- Histórico de matrículas
 
-- Documento de Visão e Escopo;
-- Lista de Requisitos / Backlog Inicial;
-- Requisitos funcionais e não funcionais;
-- Pesquisa e análise comparativa de sistemas de gestão de academias;
-- Pitch da proposta de solução;
-- Diagramas, fluxogramas e demais materiais produzidos nas disciplinas.
+### 🏋️ Gestão de planos e treinos
+- Cadastro de professores
+- Gerenciamento de modalidades e planos
+- Organização de treinos
+- Exportação de treinos em PDF
 
-## Organização do repositório
+### 💳 Gestão financeira
+- Controle de mensalidades
+- Registro de pagamentos
+- Identificação de inadimplência
+- Consulta ao histórico financeiro
 
-```text
-ADS/
-└── ADS-1º.Semestre/
-    ├── Algoritmos-e-Logica-de-Programacao/
-    ├── Engenharia-de-Software-I/
-    └── Projeto-Integrador-em-ADS-I/
-        ├── Documento_Visao_Escopo_Sistema_Gestao_Academia.docx
-        ├── Lista_Requisitos_Backlog_Inicial_Academia.docx
-        ├── Pitch_Proposta_Solucao_Sistema_Gestao_Academia.pptx
-        └── README.md
-```
+### 📊 Relatórios administrativos
+- Relatórios de alunos
+- Informações financeiras
+- Indicadores administrativos
+- Histórico e regras de acesso
 
-## Metodologia de desenvolvimento
+## 🚀 Funcionalidades planejadas para evoluções futuras
 
-O projeto segue uma abordagem **incremental**, permitindo que novas funcionalidades sejam incorporadas ao longo dos semestres conforme a evolução dos conhecimentos da equipe em modelagem, programação, banco de dados, desenvolvimento web, dispositivos móveis, segurança, testes e integração.
+Com a evolução do projeto, poderão ser estudadas e incorporadas funcionalidades adicionais, incluindo:
 
-## Situação atual
+- Aplicativo para alunos
+- Integração com Pix, boletos e cartões
+- Integração com catracas
+- Identificação biométrica e reconhecimento facial
+- Ferramentas de CRM e comunicação automatizada
+- Dashboards e relatórios avançados
+- Recursos de inteligência artificial
+- Integrações com serviços externos por API
 
-**Etapa:** análise, levantamento de requisitos, documentação e definição do escopo inicial.
+Essas funcionalidades fazem parte das possibilidades de expansão e não representam recursos já implementados.
+
+## 📑 Documentação acadêmica
+
+Os artefatos previstos ou desenvolvidos durante a etapa de análise e planejamento incluem:
+
+1. Documento de Visão e Escopo
+2. Lista de Requisitos e Backlog Inicial
+3. Requisitos Funcionais e Não Funcionais
+4. Pesquisa e Análise Comparativa de Sistemas
+5. Pitch da Proposta de Solução
+6. Diagramas, fluxogramas e demais materiais de apoio
+
+A documentação será complementada conforme a evolução das atividades acadêmicas.
+
+## 🔄 Metodologia de desenvolvimento
+
+O projeto adota uma abordagem **incremental**, na qual a solução poderá evoluir ao longo dos semestres.
+
+O desenvolvimento é organizado em etapas:
+
+1. Identificação do problema e análise de mercado
+2. Levantamento de requisitos
+3. Definição do escopo
+4. Modelagem e documentação
+5. Planejamento da implementação
+6. Desenvolvimento e testes futuros
+7. Evolução e aperfeiçoamento da solução
+
+## 📌 Situação atual do projeto
+
+**Fase documentada:** análise, levantamento de requisitos, definição de escopo e elaboração dos artefatos iniciais.
+
+**Natureza:** projeto acadêmico em evolução.
+
+O escopo apresentado descreve as funcionalidades propostas, não sendo uma declaração de que o sistema já está implementado ou disponível para utilização.
+
+## 🧠 Conhecimentos aplicados
+
+- Engenharia de Software
+- Análise de requisitos
+- Documentação técnica
+- Levantamento e definição de escopo
+- Pesquisa de soluções de mercado
+- Planejamento de sistemas
+- Trabalho colaborativo
+
+## 🔗 Navegação
+
+[⬅️ Voltar ao 1º semestre](../)
+
+[🏠 Repositório principal de ADS](../../)
 
 ---
 
-Fatec Lins – Análise e Desenvolvimento de Sistemas – 2º semestre de 2026.
+**FATEC Lins – Prof. Antonio Seabra**
+
+**Curso:** Análise e Desenvolvimento de Sistemas
+
+**Projeto:** Projeto Integrador ADS I
+
+**Período:** 2º semestre de 2026
